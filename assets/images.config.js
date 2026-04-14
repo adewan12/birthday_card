@@ -16,12 +16,12 @@ window.SITE_IMAGES = {
   'chapter1-office': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAX4Q5FezUNkOgOTiw4P9de9lCFmsCj4nnYTHhb_OqKIc21E77xCqQpwrdGoKbHsEY3C1ObWelk-zFmqOKjwj_i59QEH99evscSKnD2rNw24290NYHSR-HuIbXurqhUBX7G0uHqEzT-jyF-Fhsysv3OiR4XgmjaSzBb5r7bIetw3VmpuxbSSiczG1qQe4G1E1PDuzGyJr_RHoj9ted2jw6bowIPOn-o2IEQuZriuSmM3MdqCKn9vnF_fz0z58wxBjLHW_VFJB3KU9I',
 
   // Chapter 2 (Gallery)
-  'chapter2-plate-01': 'https://lh3.googleusercontent.com/aida-public/AB6AXuC4LIEsvVyuHy8IcnOfxc4svhKMA8tZZDN5K9UR6-7-73ecbSndVuGvrvG9AtqF0gkjx8pwM6ojGElFn2RKm0_8uZCI9wUXHFbv7I-DeGqYtlHc5-NCKd7P5iH9vkznarkmMJkVPrIwdsk3Zgg79V_6K3N_ZxggKDZ5cc0RP5ribKLJJmrFcFYRXnLJ58-4buTd9wGo5UFQVN3MJqJ647GnflKlhViEFSN6hU3ISuXpApBGc5gU8smpK_DgkEw8eJtdqNr7N7eqaNo',
-  'chapter2-plate-02': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBBu0VxRhPHdyv05VbLlpurNcJaINNW9GD-OVLtTWyfCea2VMxpChQLuTVbbT6Z_uNuh3CGVY9kcrRlqO4RHjLGqbsgbIHeNMfImnTu13Mr617pB1g3lpKsVAWo6nYAZLwSxpPXohQUto9uu0xDmPqbZBSG7Q_5spbh0Ru3K5kgngs3cblqD5ZpZIC1B8I8s3my3NKtQFGQmd41Owatd8qmb00Z4JHo_NMEkIIxiDDtvs5wELDXy9p9T9w-xllo-agOUKz0bTaPuto',
-  'chapter2-plate-03': 'https://lh3.googleusercontent.com/aida-public/AB6AXuDYvWESRkIQUwOuIfno6HDEs9mj-556Jwy-nGyu5Pww24SEzISLowIiiyrQoeOHLGLB7JzFwm4SxOVjSzH5TenFgWxbcbaYBSQ6-egumytyIPyiXfr564sFRASYOIY2GuJuZ6C9_Ye4B8K6x6M_bXMKAibWqOlZvhxZubDWdKVPaf3q3ruYDz6q37GaKg4RqqMJL87ZN1-l9NUgtBjMaC0FIm5XO9DsGDIWon23jkGKOn88LOSwWyFqJ2bhtmwnkIFqkDmAUI71rxY',
-  'chapter2-plate-04': 'https://lh3.googleusercontent.com/aida-public/AB6AXuByns5lF1QzAADii9ostv7yK4_TXpAhEbmHRzoXBWGpnr-SkmkSGvugEi1k_3QuAqlotJbZWcNkzhHamoFH6QzUjRL2B3KqOji7TEgICXZ-ShZduIGUaImIXyna2eHygK_CcIGXyxwC83-zFN2HsONAdjUiU8G1krU9HMTxJ5tf7B9RRoPyQ5wWQ4HRGxOiWhJguE7_Bd-Ba9yocbCd3jO0NpEe-_OLMLmu6oo-4-WdH-d_Efh1D-23q8NhknJBzH0XjvSLuJgxcMQ',
-  'chapter2-plate-05': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAWGn9YgtO01TFqOAf4rwS-WPcBv0qqZh_SNhn6uxhiPdpljAwaHAjBuNl-K4X3G8_5NEeGZQy6iHbXhIvO8K7KLzwGf-13G1zQgCEHIMbhUI4JbwEiKKxdKOeKzFiGdARdaJc-fbQb-GvhSYKdfVpcm9q2hcxBAP1fC5HLvRdYuvrc5eVO5CGUA7kzkS2vFjnJdFg9X92KBAuueGo0eAilR9SyvuBXy9ZArLb1Euj_gu51U8RIBcvml4JOqsJIMIAsxOhf8xq3r94',
+  'chapter2-plate-01': 'https://drive.google.com/uc?export=view&id=1ZzMbn5kXymx-lE85L2T0upRTvVP8jqbT',
+  'chapter2-plate-02': 'https://drive.google.com/uc?export=view&id=1D47AKSMi16GZ-zF55T31QytPR1yZn9d',
+  'chapter2-plate-03': 'https://drive.google.com/uc?export=view&id=1YMXGKJh2h2UeuTGDsGdhIWER9BINQkFb',
+  'chapter2-plate-04': 'https://drive.google.com/uc?export=view&id=19EKI4AvpUYDJ9mmMQIZrEz73jO4anN5J',
+  'chapter2-plate-05': 'https://drive.google.com/uc?export=view&id=1W7UYSIupcG_GjC_U8t1bNY5O6IGw0Uac',
 
   // Letter (Epilogue)
-  'epilogue-hero': 'https://drive.google.com/uc?export=view&id=19EKI4AvpUYDJ9mmMQIZrEz73jO4anN5J'
+  'epilogue-hero': 'https://drive.google.com/uc?export=view&id=1eYwkf_b_yEPVTrSlnxJ-znMBSy6gWcQg'
 };
