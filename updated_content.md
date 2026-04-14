@@ -7,7 +7,6 @@ Uncle Display Name (Cover H1): Dad
 
 Portrait Caption Name (over image): Vivek Kumar Dewangan
 
-
 Cover Footer Note: A digital keepsake for our family’s heartbeat
 
 Epilogue Signature Name (end): Shibu
