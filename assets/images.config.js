@@ -12,7 +12,7 @@ window.SITE_IMAGES = {
   'cover-portrait': 'https://drive.google.com/uc?export=view&id=1nVotiIPr0gtrMHxyPaVmbT7iaQY6MGOY',
 
   // Chapter 1
-  'chapter1-hero': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBj6QXQyAoq6Wvc9S0o0i89B6JECVd04AwWngsacc-OAAx1mw4Sut2xg9M9UIrzE2-PBcsURCnQA7L93aGwVLRUbJJPbILPsBzkTHUnH-0R0LmNzi5cfQ1DtNjYP1vIT1R3mV-Cl_uL5iutBF1MvjN5kWyA0KFNXwCXIm4lZcbTNVdxyEeX4j-ZnDIoiDMn9WIQSYKDOIVngZAWe99kBuakGufaU2nWY4aQzHo_9uu47vZjvmKSsYo-GuRmOEXTrMdFVXIubjDjjNc',
+  'chapter1-hero': 'https://drive.google.com/uc?export=view&id=13VMcvCmQGpVycaZq0QRXTs2MPInAB5_n',
   'chapter1-office': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAX4Q5FezUNkOgOTiw4P9de9lCFmsCj4nnYTHhb_OqKIc21E77xCqQpwrdGoKbHsEY3C1ObWelk-zFmqOKjwj_i59QEH99evscSKnD2rNw24290NYHSR-HuIbXurqhUBX7G0uHqEzT-jyF-Fhsysv3OiR4XgmjaSzBb5r7bIetw3VmpuxbSSiczG1qQe4G1E1PDuzGyJr_RHoj9ted2jw6bowIPOn-o2IEQuZriuSmM3MdqCKn9vnF_fz0z58wxBjLHW_VFJB3KU9I',
 
   // Chapter 2 (Gallery)
