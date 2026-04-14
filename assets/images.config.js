@@ -9,7 +9,7 @@
 
 window.SITE_IMAGES = {
   // Cover
-  'cover-portrait': 'https://drive.google.com/uc?export=view&id=1nVotiIPr0gtrMHxyPaVmbT7iaQY6MGOY',
+  'cover-portrait': 'WhatsApp Image 2026-04-13 at 23.07.36.jpeg',
 
   // Chapter 1
   'chapter1-hero': 'https://drive.google.com/uc?export=view&id=13VMcvCmQGpVycaZq0QRXTs2MPInAB5_n',
