@@ -12,7 +12,7 @@ window.SITE_IMAGES = {
   'cover-portrait': 'WhatsApp Image 2026-04-13 at 23.07.36.jpeg',
 
   // Chapter 1
-  'chapter1-hero': 'https://drive.google.com/uc?export=view&id=13VMcvCmQGpVycaZq0QRXTs2MPInAB5_n',
+  'chapter1-hero': 'WhatsApp Image 2026-04-13 at 23.07.36 (1).jpeg',
   'chapter1-office': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAX4Q5FezUNkOgOTiw4P9de9lCFmsCj4nnYTHhb_OqKIc21E77xCqQpwrdGoKbHsEY3C1ObWelk-zFmqOKjwj_i59QEH99evscSKnD2rNw24290NYHSR-HuIbXurqhUBX7G0uHqEzT-jyF-Fhsysv3OiR4XgmjaSzBb5r7bIetw3VmpuxbSSiczG1qQe4G1E1PDuzGyJr_RHoj9ted2jw6bowIPOn-o2IEQuZriuSmM3MdqCKn9vnF_fz0z58wxBjLHW_VFJB3KU9I',
 
   // Chapter 2 (Gallery)
@@ -23,5 +23,5 @@ window.SITE_IMAGES = {
   'chapter2-plate-05': 'https://drive.google.com/uc?export=view&id=1W7UYSIupcG_GjC_U8t1bNY5O6IGw0Uac',
 
   // Letter (Epilogue)
-  'epilogue-hero': 'https://drive.google.com/uc?export=view&id=1eYwkf_b_yEPVTrSlnxJ-znMBSy6gWcQg'
+  'epilogue-hero': 'WhatsApp Image 2026-04-14 at 10.19.27.jpeg'
 };
