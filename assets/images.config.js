@@ -23,5 +23,5 @@ window.SITE_IMAGES = {
   'chapter2-plate-05': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAWGn9YgtO01TFqOAf4rwS-WPcBv0qqZh_SNhn6uxhiPdpljAwaHAjBuNl-K4X3G8_5NEeGZQy6iHbXhIvO8K7KLzwGf-13G1zQgCEHIMbhUI4JbwEiKKxdKOeKzFiGdARdaJc-fbQb-GvhSYKdfVpcm9q2hcxBAP1fC5HLvRdYuvrc5eVO5CGUA7kzkS2vFjnJdFg9X92KBAuueGo0eAilR9SyvuBXy9ZArLb1Euj_gu51U8RIBcvml4JOqsJIMIAsxOhf8xq3r94',
 
   // Letter (Epilogue)
-  'epilogue-hero': 'https://lh3.googleusercontent.com/aida-public/AB6AXuARrF8W9q6EKml7mOHHMrM_Iew9hl7BjJq23vs2S3CRhnLjeCPPNuE6SxnK-KpEEwcJejyjqixjKgGRLR4JqOcKjOZyjd0PoboLpyJ9J6yWQyZhEM1r5Vs6XabILHBGQULDwJpN7sPzIANd8llPdQdPUtRyKkC5SikvuitRrALMNXp4_V_nrvQo6gnyAYk21Xy_AMAq_nemklKCmz5GkQqt3mVsumiAtE1VCTVXZx3AJqlwXWuatd9CYcu20bad8pXe4PSEDvXm-y4'
+  'epilogue-hero': 'https://drive.google.com/uc?export=view&id=19EKI4AvpUYDJ9mmMQIZrEz73jO4anN5J'
 };
