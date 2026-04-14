@@ -7,7 +7,7 @@ Uncle Display Name (Cover H1): Dad
 
 Portrait Caption Name (over image): Vivek Kumar Dewangan
 
-Portrait Dates (over image): 1966 — 2026
+Portrait Dates (over image): 1967 — 2026
 
 Cover Footer Note: A digital keepsake for our family’s heartbeat
 
