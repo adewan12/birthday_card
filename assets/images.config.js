@@ -16,11 +16,11 @@ window.SITE_IMAGES = {
   'chapter1-office': 'https://lh3.googleusercontent.com/aida-public/AB6AXuAX4Q5FezUNkOgOTiw4P9de9lCFmsCj4nnYTHhb_OqKIc21E77xCqQpwrdGoKbHsEY3C1ObWelk-zFmqOKjwj_i59QEH99evscSKnD2rNw24290NYHSR-HuIbXurqhUBX7G0uHqEzT-jyF-Fhsysv3OiR4XgmjaSzBb5r7bIetw3VmpuxbSSiczG1qQe4G1E1PDuzGyJr_RHoj9ted2jw6bowIPOn-o2IEQuZriuSmM3MdqCKn9vnF_fz0z58wxBjLHW_VFJB3KU9I',
 
   // Chapter 2 (Gallery)
-  'chapter2-plate-01': 'https://drive.google.com/uc?export=view&id=1ZzMbn5kXymx-lE85L2T0upRTvVP8jqbT',
-  'chapter2-plate-02': 'https://drive.google.com/uc?export=view&id=1D47AKSMi16GZ-zF55T31QytPR1yZn9d',
-  'chapter2-plate-03': 'https://drive.google.com/uc?export=view&id=1YMXGKJh2h2UeuTGDsGdhIWER9BINQkFb',
-  'chapter2-plate-04': 'https://drive.google.com/uc?export=view&id=19EKI4AvpUYDJ9mmMQIZrEz73jO4anN5J',
-  'chapter2-plate-05': 'https://drive.google.com/uc?export=view&id=1W7UYSIupcG_GjC_U8t1bNY5O6IGw0Uac',
+  'chapter2-plate-01': 'WhatsApp Image 2026-04-14 at 10.00.41.jpeg',
+  'chapter2-plate-02': 'WhatsApp Image 2026-04-14 at 10.05.29.jpeg',
+  'chapter2-plate-03': 'WhatsApp Image 2026-04-14 at 10.13.50.jpeg',
+  'chapter2-plate-04': 'WhatsApp Image 2026-04-14 at 10.19.27 (2).jpeg',
+  'chapter2-plate-05': 'WhatsApp Image 2026-04-14 at 10.19.27 (1).jpeg',
 
   // Letter (Epilogue)
   'epilogue-hero': 'WhatsApp Image 2026-04-14 at 10.19.27.jpeg'
