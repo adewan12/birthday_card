@@ -9,7 +9,7 @@
 
 window.SITE_IMAGES = {
   // Cover
-  'cover-portrait': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBY7PWs-AmUf221Iw828mFPDBksIz0mT6kVPUSXcxSQv6B-mGLlfVKn742t4vtgb0RNZpKoFCo4Qz6j0C66oK_kOY_3C7XTvCJjG510QTtolwUjMHerpFlpSJFTJsgU2W0d8e7qR4zu3Mhu3YIrjhM-k0Qd-aonKXfkC77n9EPCPWRcN2FAHSv_iwDfBZ6bsb4GvPGGnZvevxqzHgBqoiLXuTgA_FU0kS-rh2E_visTFytESJsBZ31oSTiq8s32scSyBvE9mjK158g',
+  'cover-portrait': 'https://drive.google.com/uc?export=view&id=1nVotiIPr0gtrMHxyPaVmbT7iaQY6MGOY',
 
   // Chapter 1
   'chapter1-hero': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBj6QXQyAoq6Wvc9S0o0i89B6JECVd04AwWngsacc-OAAx1mw4Sut2xg9M9UIrzE2-PBcsURCnQA7L93aGwVLRUbJJPbILPsBzkTHUnH-0R0LmNzi5cfQ1DtNjYP1vIT1R3mV-Cl_uL5iutBF1MvjN5kWyA0KFNXwCXIm4lZcbTNVdxyEeX4j-ZnDIoiDMn9WIQSYKDOIVngZAWe99kBuakGufaU2nWY4aQzHo_9uu47vZjvmKSsYo-GuRmOEXTrMdFVXIubjDjjNc',
