@@ -18,7 +18,7 @@ window.SITE_IMAGES = {
   // Chapter 2 (Gallery)
   'chapter2-plate-01': 'WhatsApp Image 2026-04-14 at 10.00.41.jpeg',
   'chapter2-plate-02': 'WhatsApp Image 2026-04-14 at 10.05.29.jpeg',
-  'chapter2-plate-03': 'WhatsApp Image 2026-04-14 at 10.13.50.jpeg',
+  'chapter2-plate-03': 'WhatsApp Image 2026-04-14 at 11.57.04.jpeg',
   'chapter2-plate-04': 'WhatsApp Image 2026-04-14 at 10.19.27 (2).jpeg',
   'chapter2-plate-05': 'WhatsApp Image 2026-04-14 at 10.19.27 (1).jpeg',
 
