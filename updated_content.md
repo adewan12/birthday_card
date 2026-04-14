@@ -1,7 +1,7 @@
 GLOBAL FIELDS
 Site Title (Top Bar): The Dewangan Editorial
 
-Cover Volume Label: Volume I — A Quiet North Star
+Cover Volume Label: Volume I — A Quiet North Stars
 
 Uncle Display Name (Cover H1): Dad
 
